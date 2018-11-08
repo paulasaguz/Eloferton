@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+}
+.header {
+  background-color:#02B875;
+  height:70px;
+}
+.contenedor {
+  margin:0 auto;
+  max-width: 1000px;
+}
+.content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: white;
+  height: inherit;
+  font-family: arial;
+}
+.content h3 {
+  font-family: 'Carter One', cursive;
+  letter-spacing:1px;
+  font-weight:lighter;
+  font-size:30px;
+}
+.content input {
+  padding: 5px;
+  height:20px;
+  border-radius:5px;
+}

@@ -1,0 +1,41 @@
+.footer-play {
+    background-color:#E3E6E9;
+}
+.contenedor {
+    max-width:1000px;
+    margin: 0 auto;
+}
+.footer-container {
+    display:flex;
+    list-style:none;
+    justify-content:space-between;
+    font-family:arial;
+    font-size:12px;
+    padding-top:25px;
+}
+.footer-container li {
+    padding: 5px 0;
+}
+.stores {
+    display:flex;
+}
+.apps-promo {
+    width:150px;
+    padding-right:10px;
+}
+.apps-promo img {
+    background:black;
+    border-radius:5px;
+}
+.uppercase {
+    text-transform: uppercase;
+    font-weight: bold;
+}
+.banner-footer {
+    background-color:#02B875;
+    color:white;
+    font-family:arial;
+    list-style:none;
+    padding:12px 50px;
+    font-size:12px;
+}
